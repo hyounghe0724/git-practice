@@ -5,11 +5,12 @@ manager: Peter
 coach: Rocket
 
 members:
-- Linda
-- William
-- David
-- Olivia
-- Evie
-- Dongho
-- Drax
-- Groot
+  - Linda
+  - William
+  - David
+  - Olivia
+  - Evie
+  - Dongho
+  - Drax
+  - Groot
+  - hook
